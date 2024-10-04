@@ -1,5 +1,6 @@
 # Operating-System-Note
 
+### Concept level 1
 Operating system Beginner question list:
 
 1. What is an Operating System (OS)?
@@ -42,3 +43,49 @@ Operating system Beginner question list:
 38. Interprocess Communication (IPC) overview.
 39. Using shared memory for IPC.
 40. Message passing in IPC.
+
+
+### Concept level 2
+
+1. Why are threads used in programs?
+2. What are the overheads of using processes?
+3. What is the key idea behind threads?
+4. Difference between single-threaded and multithreaded processes.
+5. Benefits of using threads.
+6. Pthread basics overview.
+7. How to create a thread using Pthread?
+8. How to pass parameters to a thread?
+9. Using Pthread_self and Pthread_equal.
+10. How to terminate a thread in Pthread?
+11. How to use Pthread_join to wait for thread termination?
+12. Returning values from thread functions.
+13. How to wait for threads?
+14. How to detach a thread using Pthread_detach?
+15. Global variables in threads.
+16. What is concurrency in programs?
+17. What are race conditions and atomic operations?
+18. What is synchronization in programming?
+19. Correctness properties of synchronization solutions.
+20. How to enforce mutual exclusion in multithreading?
+21. What are locks, and how to use them in Pthreads?
+22. How to avoid deadlock with locks?
+23. What are semaphores and their use cases?
+24. What are synchronization patterns like bounded concurrent access and signaling?
+25. Using semaphores to avoid busy waiting.
+26. How does multithreading interact with multicore systems?
+27. Challenges of multicore programming.
+28. How to design multithreaded programs effectively?
+29. What are thread pools?
+30. What is the readers-writers problem, and how to solve it?
+31. What is the dining philosophers problem, and how to solve it?
+32. Four necessary conditions for deadlocks.
+33. How to prevent deadlocks?
+34. What is a resource allocation graph?
+35. How to handle deadlocks?
+36. How are threads implemented?
+37. Difference between user threads and kernel threads.
+38. How are threads implemented in Linux?
+39. How are locks implemented in programming?
+40. What is the TestAndSet atomic instruction?
+41. What are spin locks?
+42. How do locks affect performance?
