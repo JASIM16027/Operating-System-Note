@@ -89,3 +89,43 @@ Operating system Beginner question list:
 40. What is the TestAndSet atomic instruction?
 41. What are spin locks?
 42. How do locks affect performance?
+
+### Concept level 3
+
+Here is a refined version of your memory management questions:
+
+1. Key memory management terminology.
+2. Where do memory addresses originate from?
+3. What are the essential properties of memory management systems?
+4. What are some basic memory allocation schemes?
+5. What is fragmentation, including internal and external fragmentation?
+6. Define paging in memory management.
+7. What is the key concept behind paging?
+8. How does paging work in memory management?
+9. How is address translation performed with paging?
+10. How does paging hardware operate?
+11. How does the paging hardware translate memory addresses?
+12. How do memory management systems perform address translation without division?
+13. How can paging be made more efficient?
+14. What is a Translation Lookaside Buffer (TLB) cache?
+15. How does a TLB cache function?
+16. What are the performance effects of using a TLB cache?
+17. How is main memory initialized when a process begins?
+18. How are context switches handled when paging is used?
+19. How does paging support memory sharing between processes?
+20. What is demand paging?
+21. How does demand paging operate?
+22. When is a page loaded in demand paging?
+23. How is demand paging implemented in systems?
+24. What is swap space in memory management?
+25. What are the performance impacts of demand paging?
+26. How is the TLB cache updated during demand paging?
+27. What are page replacement algorithms?
+28. How does FIFO page replacement work?
+29. What is the MIN page replacement algorithm?
+30. How does random page replacement work?
+31. What is Least Recently Used (LRU) page replacement?
+32. What is Belady's anomaly in page replacement?
+33. What is thrashing in memory management?
+34. How can thrashing be mitigated?
+35. What is the working set model in memory management?
